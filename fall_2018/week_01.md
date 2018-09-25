@@ -1,22 +1,19 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> So far I have been working on finding a cheaper microcontroller. We were origionally using a
+> Raspberry Pi 3 wich costs over $40. Through my reasearch I disovered the Node MCU Lua ESP8266
+> boards which sell for $6 on Amazon and have Arduino + WiFi. If we need bluetooth, might go with
+> the Raspberry Pi 0.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> Plan to get some Node MCU boards and try to figure out how to control them over Wifi
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> Not sure of the requirements. Need blutooth? Long range NFC? What do out useres want
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Look into means of controlling Node MCU: Adafruit IO (MQTT), Google Firebase,
+> AWS IoT (Amazon MQTT)
