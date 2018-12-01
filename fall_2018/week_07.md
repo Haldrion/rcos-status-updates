@@ -17,7 +17,7 @@
 
 > Improve security and implement feedback over BLE
 
-> Prepare for pesentaion on Friday.
+> Prepare for presentaion on Friday.
 
 > Work on Android App?
 
