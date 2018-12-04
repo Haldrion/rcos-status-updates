@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-> Got 2 Node MCU boards w/ power supplies on Monday. Managed to connect them to Wifi
+> Got 2 Node MCU boards w/ power supplies on Monday. Managed to connect them to WiFi
 > and control an led light over Google Firebase. Coded a basic HTML UI. Also managed
 > to use Adafruit IO to connect but Adafruit charges $100 per year after 5 boards.
 
