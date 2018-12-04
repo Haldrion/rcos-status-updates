@@ -12,7 +12,7 @@
 
 ## This Week's Plan
 
-> Find and order parts for constuctiong a PCB
+> Find and order parts for constructing a PCB
 
 > Shrink PCB design to reduce cost
 
