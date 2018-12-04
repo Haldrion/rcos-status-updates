@@ -1,7 +1,7 @@
 ## Last Week's Accomplishments
 
 > So far I have been working on finding a cheaper microcontroller. We were origionally using a
-> Raspberry Pi 3 which costs over $40. Through my reasearch I disovered the Node MCU Lua ESP8266
+> Raspberry Pi 3 which costs over $40. Through my research I discovered the Node MCU Lua ESP8266
 > boards which sell for $6 on Amazon and have Arduino + WiFi. If we need bluetooth, might go with
 > the Raspberry Pi 0.
 
@@ -11,7 +11,7 @@
 
 ## Anything Blocking?
 
-> Not sure of the requirements. Need blutooth? Long range NFC? What do out useres want?
+> Not sure of the requirements. Need bluetooth? Long range NFC? What do out users want?
 
 ## Notes
 
