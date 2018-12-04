@@ -7,7 +7,7 @@
 
 ## This Week's Plan
 
-> Plan to get some Node MCU boards and try to figure out how to control them over WiFi.
+> Plan to get some Node MCU boards and try to figure out how to control them over Wifi.
 
 ## Anything Blocking?
 
