@@ -10,9 +10,9 @@
 
 ## This Week's Plan
 
-> Finsh Fritzing sketch of new BLE Circuit design
+> Finish Fritzing sketch of new BLE Circuit design
 > (Arduino Nano & SH-HC-08 BLE Module) with a full schematic and PCB
-> design (in case we decide to propery fabricate the boards)
+> design (in case we decide to properly fabricate the boards)
 
 > Try to get this wired up to a relay so we can get a functional demo
 
@@ -20,7 +20,7 @@
 
 > Improve security and implement feedback over BLE
 
-> Test it on a actual door?
+> Test it on an actual door?
 
 > Work on Android App?
 
