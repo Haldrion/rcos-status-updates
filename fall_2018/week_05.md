@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-> Since having difficuties connecting to RPI WPA Enterprise WiFi,
+> Since having difficulties connecting to RPI WPA Enterprise WiFi,
 > started to shift board design to BLE (Bluetooth Low Energy)
 
 > Jing-Wei got his app to connect and control an Arduino UNO
@@ -23,7 +23,7 @@
 
 ## Anything Blocking?
 
-> Need to get parts and get acess to door
+> Need to get parts and get access to door
 
 ## Notes
 
