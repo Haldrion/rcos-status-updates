@@ -17,9 +17,9 @@
 > Shrink PCB design to reduce cost
 
 > Verify PCB design with a professor? (in case we go with a cheap 
-> fabriction which does not provide design checking)
+> fabrication which does not provide design checking)
 
-> Find a low-cost PCB fabriction service and get some PCBs fabricated (Basic PCB?)
+> Find a low-cost PCB fabrication service and get some PCBs fabricated (Basic PCB?)
 
 > Give dimensions to Anton so he can finish the enclosure design
 
@@ -31,4 +31,4 @@
 
 ## Notes
 
-> Sucessful testing! Yay! :-)
+> Successful testing! Yay! :-)
