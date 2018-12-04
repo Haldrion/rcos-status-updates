@@ -21,7 +21,7 @@
 
 > Find a low-cost PCB fabriction service and get some PCBs fabricated (Basic PCB?)
 
-> Give dimensions to Anton so he can finsh the enclose design
+> Give dimensions to Anton so he can finish the enclosure design
 
 > Start thinking about other improvements?
 
