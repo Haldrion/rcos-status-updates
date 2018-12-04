@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-> Finshed Fritzing sketch of the schematic and PCBs. Will upload to
+> Finished Fritzing sketch of the schematic and PCBs. Will upload to
 > Github ASAP.
 
 > Got approved to test in Amos Eaton under certain provisions!!
@@ -13,11 +13,11 @@
 
 > Try to get this wired up to a relay so we can get a functional demo!
 
-> Test it on a actual door! We just got permission.
+> Test it on an actual door! We just got permission.
 
 > Improve security and implement feedback over BLE
 
-> Prepare for presentaion on Friday.
+> Prepare for presentation on Friday.
 
 > Work on Android App?
 
