@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-> Went to Amos Eaton for testing Nov 27 and set uop the full circuit with the
+> Went to Amos Eaton for testing Nov 27 and set up the full circuit with the
 > relay and wired it to the door
 
 > We tested it with the app and IT WORKS!!
